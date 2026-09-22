@@ -1,0 +1,12 @@
+{
+  "name": "spire-dev-toolkit",
+  "owner": { "name": "Spire Team" },
+  "plugins": [
+    {
+      "name": "dev-toolkit",
+      "source": "./",
+      "description": "Java/Angular/React code review skills, code-reviewer and test-writer agents, format-on-edit and dangerous-git-command guard hooks.",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "dev-toolkit",
+  "displayName": "Dev Toolkit",
+  "version": "1.0.0",
+  "description": "Java/Angular/React code review skills, code-reviewer and test-writer agents, format-on-edit and dangerous-git-command guard hooks.",
+  "author": { "name": "Spire Team" },
+  "license": "MIT"
+}
