@@ -35,11 +35,9 @@ auto-format edited files and block destructive git commands.
 ## Install (team members)
 
 ```bash
-/plugin marketplace add <your-org>/spire-dev-toolkit
-/plugin install dev-toolkit@spire-dev-toolkit
+/plugin marketplace add yd1265/dev-toolkit
+/plugin install dev-toolkit@dev-toolkit
 ```
-
-Replace `<your-org>` with wherever this repo ends up living on GitHub.
 
 ## Local development / testing
 
